@@ -1,0 +1,14 @@
+{
+  "name": "fpubrain",
+  "version": "1.0.0",
+  "description": "A utility to manage data for the Free Peoples Union",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Crean <daniel.crean.developer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^67.0.0"
+  }
+}
